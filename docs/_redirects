@@ -1,0 +1,31 @@
+# Netlify redirects. See https://www.netlify.com/docs/redirects/
+
+/tutorials/how-to-contribute/      	/tdoc/contribute/
+/community/contributing/           	/tdoc/contribute/
+/about-liuying/                    	/tdoc/about/
+/docs/                             	/tdoc/about/
+/content/manual                    	/tdoc/user-manual/
+/content/usage                     	/tdoc/user-manual/
+/overview/introduction/            	/tdoc/getting-started/
+/overview/introduction/            	/tdoc/about/what-is-liuying/
+/about/why-liuying/                	/tdoc/about/what-is-liuying/
+/quickstart/                       	/tdoc/getting-started/quick-start/
+/overview/quickstart/              	/tdoc/getting-started/quick-start/
+/content/user-login/               	/tdoc/user-manual/login/
+/contribute/docs/                  	/tdoc/contribute/documentation/
+/overview/usage/                   	/tdoc/getting-started/usage/
+/extras/livereload/                	/tdoc/getting-started/usage/
+/doc/usage/                        	/tdoc/getting-started/usage/
+/usage/                            	/tdoc/getting-started/usage/
+/overview/deploy/                  	/tdoc/getting-started/deploy-required/
+/meta/license                      	/tdoc/about/license/
+/content/usage/peizhi/             	/tdoc/user-manual/peizhi/
+/content/usage/zhuizong/           	/tdoc/user-manual/zhuizong/
+/content/usage/yanpan/             	/tdoc/user-manual/yanpan/
+/content/basic-setting/            	/tdoc/user-manual/basic-setting/
+/content/usage/shijian/            	/tdoc/user-manual/shijian/
+/content/usage/zonglan             	/tdoc/user-manual/zonglan/
+/demo/                             	/tdoc/demo/
+/overview/demo/                    	/tdoc/demo/
+/getting-started/installing/       	/tdoc/installation/
+/release-notes/                    	/tdoc/news/
