@@ -36,4 +36,4 @@ Press Ctrl+C to stop
 
 ## Thanks
 
-This repo uses the hugo doc style and its theme. 
+This repo uses the hugo doc style and its theme. Thanks to [hugo](https://github.com/gohugoio/hugo) 
