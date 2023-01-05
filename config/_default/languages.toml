@@ -1,11 +1,4 @@
-
-  [zh]
-    contentDir = "/content/zh"
-    languageName = "中文"
-    weight = 1
-
-#  [en]
-#    contentDir = "/content/en"
-#    languageName = "English"
-#    weight = 2
-
+[en]
+contentDir = "content/en"
+languageName = "English"
+weight = 1
